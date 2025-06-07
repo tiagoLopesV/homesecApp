@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"MIt+M8dqPHv8m7nuEinUo3zzMDyKemUDfh444jnYzYs=","Source":"PrimacyServer","BasePath":"_content/PrimacyServer","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "1WB72i1QU9ZCXdyoSffbNMTWScOy2T7h7wP2b1T+0pw=",
+  "Source": "PrimacyServer",
+  "BasePath": "_content/PrimacyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

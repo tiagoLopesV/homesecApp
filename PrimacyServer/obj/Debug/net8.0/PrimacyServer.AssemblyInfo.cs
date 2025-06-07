@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimacyServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d063be7f9cac353d57057a9cca842267467950")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d58100cd2e1124ecea134f7fd200aadd6b18c80d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimacyServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimacyServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

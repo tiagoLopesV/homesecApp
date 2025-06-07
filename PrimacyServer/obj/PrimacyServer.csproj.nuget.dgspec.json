@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dfens/dev/homesec_app/Primacy/PrimacyServer/PrimacyServer.csproj": {}
+    "/home/homesec/dev/homesecApp/PrimacyServer/PrimacyServer.csproj": {}
   },
   "projects": {
-    "/home/dfens/dev/homesec_app/Primacy/PrimacyServer/PrimacyServer.csproj": {
+    "/home/homesec/dev/homesecApp/PrimacyServer/PrimacyServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dfens/dev/homesec_app/Primacy/PrimacyServer/PrimacyServer.csproj",
+        "projectUniqueName": "/home/homesec/dev/homesecApp/PrimacyServer/PrimacyServer.csproj",
         "projectName": "PrimacyServer",
-        "projectPath": "/home/dfens/dev/homesec_app/Primacy/PrimacyServer/PrimacyServer.csproj",
-        "packagesPath": "/home/dfens/.nuget/packages/",
-        "outputPath": "/home/dfens/dev/homesec_app/Primacy/PrimacyServer/obj/",
+        "projectPath": "/home/homesec/dev/homesecApp/PrimacyServer/PrimacyServer.csproj",
+        "packagesPath": "/home/homesec/.nuget/packages/",
+        "outputPath": "/home/homesec/dev/homesecApp/PrimacyServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dfens/.nuget/NuGet/NuGet.Config"
+          "/home/homesec/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -90,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/dfens/.dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
