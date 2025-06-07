@@ -1,0 +1,19 @@
+meta {
+  name: PUT_UPDATE_DIVISION
+  type: http
+  seq: 3
+}
+
+put {
+  url: http://localhost:5241/api/divisions/2
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "id": 1,
+    "name": "Updated Division",
+    "entityId": 2
+  }
+}

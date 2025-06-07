@@ -1,0 +1,17 @@
+meta {
+  name: DELETE_entity
+  type: http
+  seq: 3
+}
+
+delete {
+  url: http://localhost:5241/api/entities/3
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "id": 1
+  }
+}

@@ -1,0 +1,6 @@
+@PrimacyServer_HostAddress = http://localhost:5241
+
+GET {{PrimacyServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

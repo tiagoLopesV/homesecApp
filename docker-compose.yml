@@ -1,0 +1,12 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP.NET Core service.
+
+#version: '3.4'
+
+services:
+  primacyserver:
+    image: primacyserver
+    build:
+      context: .
+      dockerfile: PrimacyServer/Dockerfile
+    ports:
+      - 5241:5241
